@@ -16,14 +16,6 @@
 - **[Code Review Agent](https://github.com/AryanMaurya01/code-review-agent)**: experimental agent that reviews GitHub PRs for bugs, security and performance issues.
 - **[Trader Performance Analysis](https://github.com/AryanMaurya01/trader-performance-analysis)**: how Bitcoin market sentiment relates to trader profitability.
 
-### 🏅 Badges unlocked
-
-- Merged pull requests in [lakshyadangwal/ner-system](https://github.com/lakshyadangwal/ner-system) (open source)
-- Python (IBM)
-- Python for Data Science (Future Skill Prime)
-- Salesforce (Future Skill Prime)
-- Data Analyst virtual internship / training: data cleaning, Python and Power BI
-
 ### 🛠️ My toolbox
 
 **Comfortable with**
