@@ -1,4 +1,4 @@
-# AryanMaurya01 / Aryan Maurya
+# Hi, I'm Aryan 👋
 
 > *I build practical AI projects, end to end, from the data to an interface people can actually use.*
 >
